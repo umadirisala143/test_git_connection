@@ -1,0 +1,24 @@
+{
+  "files_list": [
+    {
+      "function_name": "aggregate_docs",
+      "function_file_path": "default_functions/aggregate_docs.py"
+    },
+    {
+      "function_name": "retrieve_docs",
+      "function_file_path": "default_functions/retrieve_docs.py"
+    },
+    {
+      "function_name": "transform_process_feedback",
+      "function_file_path": "default_functions/transform_process_feedback.py"
+    },
+    {
+      "function_name": "convertpayload_getobjects",
+      "function_file_path": "custom_functions/convertpayload_getobjects.py"
+    },
+    {
+      "function_name": "post_process_recommendation",
+      "function_file_path": "custom_functions/post_process_recommendation.py"
+    }
+  ]
+}
