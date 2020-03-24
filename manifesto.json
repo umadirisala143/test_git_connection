@@ -1,0 +1,20 @@
+{
+  "files_list": [
+    {
+      "function_name": "aggregate_docs",
+      "function_file_path": "fass_git/aggregate_docs.py"
+    },
+    {
+      "function_name": "convertpayload_getobjects",
+      "function_file_path": "fass_git/convertpayload_getobjects.py"
+    },
+    {
+      "function_name": "post_process_recommendation",
+      "function_file_path": "fass_git/post_process_recommendation.py"
+    },
+    {
+      "function_name": "preprocess_steps",
+      "function_file_path": "fass_git/preprocess_steps.py"
+    }
+  ]
+}
